@@ -9,7 +9,42 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
 
 
 ### Good at these
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="20" valign="middle">
+<table>
+  <tbody>
+    <tr>
+      <td background-color="white"> 
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+      </td>
+      <td>
+        <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+      </td>
+      <td>
+        <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Some stats
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahShafqat-OG&hide=contribs,issues&theme=rose_pine)
