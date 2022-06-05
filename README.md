@@ -42,6 +42,8 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
       </td>
+    </tr>
+    <tr>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg'>
       </td>
@@ -72,6 +74,8 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
       </td>
+    </tr>
+    <tr>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
       </td>
