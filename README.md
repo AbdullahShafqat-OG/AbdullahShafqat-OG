@@ -42,6 +42,51 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
       </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
+      </td>
     </tr>
   </tbody>
 </table>
