@@ -90,4 +90,5 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
 </table>
 
 ### Some stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahShafqat-OG&hide=contribs,issues&theme=rose_pine)
+<!---![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahShafqat-OG&hide=contribs,issues&theme=rose_pine&show_icons=true&hide_rank=true)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShafqat-OG&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
