@@ -12,7 +12,7 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
 <table>
   <tbody>
     <tr>
-      <td background-color="white"> 
+      <td> 
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
       </td>
       <td>
@@ -45,19 +45,22 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
         <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
       </td>
       <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
       </td>
       <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
       </td>
       <td>
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg'>
+      </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      </td>
     </tr>
     <tr>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg'>
-      </td>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
       </td>
@@ -65,30 +68,13 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
       </td>
       <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg'>
-      </td>
-      <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'>
       </td>
       <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg'>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
       </td>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
       </td>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'>
