@@ -16,11 +16,25 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
       </td>
       <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
       </td>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
       </td>
+      <td>
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Fiddled with these
+<table>
+  <tbody>
+    <tr>
       <td>
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </td>
@@ -38,9 +52,6 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
       </td>
       <td>
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
       </td>
     </tr>
     <tr>
@@ -76,9 +87,6 @@ Currently I am doing my bachelors in Software Engineering from NUST, Pakistan.
       </td>
     </tr>
     <tr>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
-      </td>
       <td>
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
       </td>
