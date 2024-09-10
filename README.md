@@ -5,8 +5,8 @@ I have completed my Bachelors in Software Engineering from NUST, Pakistan.
 ### To connect with me
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://am-educated-vegtable.itch.io/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah1013shafqat@gmail.com)
+[![Upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdullahshafqat7?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/share/3y1LB9)
-
 
 ### Good at these
 <table>
@@ -19,13 +19,10 @@ I have completed my Bachelors in Software Engineering from NUST, Pakistan.
         <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
       </td>
       <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
-      </td>
-      <td>
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       </td>
       <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg'>
       </td>
     </tr>
   </tbody>
@@ -40,6 +37,12 @@ I have completed my Bachelors in Software Engineering from NUST, Pakistan.
       </td>
       <td>
         <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
+      </td>
+      <td>
+        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
       </td>
       <td>
         <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
