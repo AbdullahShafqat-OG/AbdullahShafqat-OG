@@ -1,6 +1,6 @@
 # Hey there! 👋
 I'm Abdullah a games developer, who is eager to learn and always on the lookout for new opportunities.  
-I have completed my Bachelors in Software Engineering from NUST, Pakistan.
+I am currently pursuing my Master's in Software, Web, and Cloud from Finland, and I have completed my Bachelor's in Software Engineering from NUST, Pakistan.
 
 ### To connect with me
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://am-educated-vegtable.itch.io/)
