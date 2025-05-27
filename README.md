@@ -29,68 +29,37 @@ I am currently pursuing my Master's in Software, Web, and Cloud from Finland, an
 </table>
 
 ### Fiddled with these
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      </td>
-      <td>
-        <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
-      </td>
-      <td>
-        <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
-      </td>
-      <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-      </td>
-      <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg'>
-      </td>
-      <td>
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'>
-      </td>
-      <td>
-        <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/haskell/haskell-vertical.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/docker/docker-tile.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg'>
+  <img height="30" src='https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'>
+  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'>
+</div>
+
+
+
 
 ### Some stats
 <!---![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahShafqat-OG&hide=contribs,issues&theme=rose_pine&show_icons=true&hide_rank=true)-->
