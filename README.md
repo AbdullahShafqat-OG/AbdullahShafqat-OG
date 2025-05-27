@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm Abdullah a games developer, who is eager to learn and always on the lookout for new opportunities.  
+I'm Abdullah a software developer, who is eager to learn and always on the lookout for new opportunities.  
 I am currently pursuing my Master's in Software, Web, and Cloud from Finland, and I have completed my Bachelor's in Software Engineering from NUST, Pakistan.
 
 ### To connect with me
